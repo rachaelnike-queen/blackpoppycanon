@@ -1,0 +1,12 @@
+name = "black-poppy-flat"
+main = "src/worker.js"
+compatibility_date = "2026-10-09"
+
+[[d1_databases]]
+binding = "DB"
+database_name = "black-poppy-flat-db"
+database_id = "58b046cc-7dbf-41c6-b8cd-2ab8b65b630e"
+
+[[r2_buckets]]
+binding = "ASSETS"
+bucket_name = "black-poppy-flat-assets"
